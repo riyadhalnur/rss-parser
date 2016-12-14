@@ -16,7 +16,8 @@ var TOP_FIELDS = [
   'webMaster',
   'managingEditor',
   'generator',
-  'link'
+  'link',
+  'image'
 ];
 var PODCAST_TOP_FIELDS = [
   'author',
@@ -30,7 +31,8 @@ var ITEM_FIELDS = [
   'pubDate',
   'author',
   'content:encoded',
-  'enclosure'
+  'enclosure',
+  'image'
 ];
 var PODCAST_ITEM_FIELDS = [
   'author',
